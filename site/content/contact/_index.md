@@ -1,19 +1,46 @@
 ---
-title: "Contact"
-logo: "/img/logo.svg"
-contact_entries:
-  - heading: Location
-    text: "3153 Lynn Avenue, South San Francisco, California 94080"
-  - heading: Working hours
-    text: "Monday – Saturday: 9AM – 7PM We’re closed on Sundays"
+title: Contact
+logo: img/amm_logo_small.png
+contact_entries: []
 ---
+Get in contact so we can discuss your specific business needs. Please feel free to get in touch via Email by filling in this form, or by reaching out to us at: info@moretonmanagement.com
 
-We’d love to get in touch with you and hear your ideas and
-questions. We strive to grow and improve constantly and your feedback
-is valuable for us.
 
-<h3 class="f4 b lh-title mb2">How can I get…?</h3>
 
-You can also use the form below for any inquiries about coffee
-availability, monthly subscriptions and scheduling a 1-on-1 session
-with our baristas. Don’t be shy, drop us a line!
+<br>
+
+<form action="mailto:info@moretonmanagement.com" method="POST" enctype="text/plain" name="EmailForm" data-netlify="true">
+
+<label for="name" style="position:inherit">Your Name:</label><br>
+
+<input type="text" id="name" name="name" required><br>
+
+
+
+<label for="company" style="position:inherit">Your Company:</label><br>
+
+<input type="text" id="company" name="company"><br>
+
+
+
+<label for="company" style="position:inherit">Your Email:</label><br>
+
+<input type="email" id="email" name="email" required><br>
+
+
+
+<label for="role" style="position:inherit">Your Role:</label><br>
+
+<input type="text" id="role" name="role" required><br>
+
+
+
+<label for="MessageComment" style="position:inherit">Message:</label><br>
+
+<textarea id=”MessageComment” col=50 row=10 placeholder="Add your message here..."></textarea>
+
+
+
+<input type="submit" style="cursor:pointer" value="Submit">
+
+</form>
