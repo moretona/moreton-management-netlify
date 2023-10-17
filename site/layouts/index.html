@@ -4,9 +4,9 @@
 
 {{ partial "short-text" .Params.blurb}}
 
-{{ partial "2-up" .Params }}
+<!-- {{ partial "2-up" .Params }} -->
 
-{{ partial "text-and-image" (dict "heading" .Params.values.heading "text" .Params.values.text "buttonText" "Read more" "buttonLink" "/values") }}
+{{ partial "text-and-image" (dict "heading" .Params.services.heading "text" .Params.services.text "buttonText" "Get in touch" "buttonLink" "/contact") }}
 
 {{ partial "blog" . }}
 

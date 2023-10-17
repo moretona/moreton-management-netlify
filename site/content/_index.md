@@ -5,15 +5,9 @@ image: /img/home-jumbotron.jpg
 blurb:
   heading: Who are you?
   text: >-
-    Andrew has over ten years experience in all aspects of software development,
+    With over ten years experience in software development,
     from starting as a hands-on individual contributor to leading diverse teams
-    of developers. Now Andrew works with clients to help them navigate the
-    difficult terrain of leading an engineering organisation - whether that be
-    gearing up for a period of rapid growth, or working with a team who are
-    experiencing a period of tricky change.
-
-
-    Outside of the office, Andrew has exercised his passion for coaching and team building by coaching American Football locally in South Wales, enjoying successes as a member of the coaching team at both the University and senior team level.
+    of developers, Andrew Moreton Management has seen it all. We've worked with everyone from early stage startups to high growth fintechs and national banks. 
 intro:
   heading: What we offer
   text: "We can tailor our services to your needs, so get in touch to schedule a
@@ -30,10 +24,10 @@ products:
       tools for every taste and experience level. No matter if you roast your
       own beans or just bought your first french press, you’ll find a gadget to
       fall in love with in our shop.
-values:
-  heading: Our values
-  text: Coffee is an amazing part of human culture but it has a dark side too –
-    one of colonialism and mindless abuse of natural resources and human lives.
-    We want to turn this around and return the coffee trade to the drink’s
-    exhilarating, empowering and unifying nature.
+services:
+  heading: Our services
+  text: We work with our clients to help them navigate the
+    difficult terrain of leading an engineering organisation - whether that be
+    gearing up for a period of rapid growth, working with a team who are
+    experiencing a period of tricky change, or setting up an established engineering organisation with the tools to be successful in the future. 
 ---
