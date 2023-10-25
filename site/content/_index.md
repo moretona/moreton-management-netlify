@@ -10,6 +10,7 @@ blurb:
     expertise lie in engineering management, Agile and software team building.
 services:
   heading: Our services
+  image: img/laptop-3193422_1280.jpg
   text: We work with our clients to help them navigate the difficult terrain of
     leading an engineering organisation - whether that be gearing up for a
     period of rapid growth, working with a team who are experiencing a period of
