@@ -1,6 +1,5 @@
 ---
 title: Andrew Moreton Management
-subtitle: " Change through management"
 image: img/office-1516329_1280.jpg
 blurb:
   heading: Who are you?
@@ -9,14 +8,6 @@ blurb:
     working with early stage startups, high growth fintechs and banks as an
     individual contributor and as a leader of diverse teams of developers, his
     expertise lie in engineering management, Agile and software team building.
-intro:
-  heading: What we offer
-  text: "We can tailor our services to your needs, so get in touch to schedule a
-    call-back where your specific situation can be discussed. "
-products: []
-values:
-  heading: test
-  text: test
 services:
   heading: Our services
   text: We work with our clients to help them navigate the difficult terrain of
