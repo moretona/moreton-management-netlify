@@ -4,10 +4,11 @@ subtitle: " Change through management"
 image: img/office-1516329_1280.jpg
 blurb:
   heading: Who are you?
-  text: With over ten years experience in software development, from starting as a
-    hands-on individual contributor to leading diverse teams of developers,
-    we've seen it all. We've worked with everyone from early stage startups to
-    high growth fintechs and national banks.
+  text: Andrew works with companies to help them manage their engineering change
+    and achieve success. With over ten years experience in software development
+    working with early stage startups, high growth fintechs and banks as an
+    individual contributor and as a leader of diverse teams of developers, his
+    expertise lie in engineering management, Agile and software team building.
 intro:
   heading: What we offer
   text: "We can tailor our services to your needs, so get in touch to schedule a
