@@ -52,7 +52,7 @@ By having a loose shared agenda we can provide as much structure as is needed to
 
 # 3. Listen more than you talk
 
-If you've listened to a leadership podcast or read a book on the subject, you've doubtless heared a version of this.
+If you've listened to a leadership podcast or read a book on the subject, you've doubtless heard a version of this.
 
 > Advice is overrated. I can tell you something, and it’s got a limited chance of making its way into your brain’s hippocampus, the region that encodes memory. If I can ask you a question and you generate the answer yourself, the odds increase substantially.
 
@@ -72,7 +72,7 @@ This time, I took a different approach.
 
 Me: "What's been on your mind?"
 
-My colleage went on to decribe how their partner had recently had a health scare and that they now had to take time out of the day to deal with their toddler running around the house, how this was taking a mental toll on them, trying to balance work with the need to look after the family. It went on for about fifteen minutes. At the end of it, my colleage let out a long sigh: "Wow. I didn't mean to dump all that on you, but it's good to get it off my chest."
+My colleague went on to describe how their partner had recently had a health scare and that they now had to take time out of the day to deal with their toddler running around the house, how this was taking a mental toll on them, trying to balance work with the need to look after the family. It went on for about fifteen minutes. At the end of it, my colleague let out a long sigh: "Wow. I didn't mean to dump all that on you, but it's good to get it off my chest."
 
 They didn't need time management strategies from me. 
 
@@ -94,7 +94,7 @@ One of my favorite strategies for opening up a conversation is to simply ask ope
 
 # 5. Protect yourself
 
-So, you've implemented some of these tactics and your 1:1s are going better than ever, everything's solved, right? The thing is, as these conversations improve and your colleages feel comfortable bringing issues to the table - you might start feeling less like a manager and more like a therapist. 
+So, you've implemented some of these tactics and your 1:1s are going better than ever, everything's solved, right? The thing is, as these conversations improve and your colleagues feel comfortable bringing issues to the table - you might start feeling less like a manager and more like a therapist. 
 
 I felt this quite keenly during the COVID-19 lockdown. 
 

@@ -1,16 +1,11 @@
 {{ define "main" }}
 
-<div class="ph3 bg-off-white">
-	<div class="center mw6 pv3">
-
-    <h2 class="f2 b lh-title mb3">{{ .Params.title }}</h2>
-    <div class="ph3-m w-100-m">
-      <img src="{{.Params.image}}" alt="" class="db mb2">
-    </div>
-
-		{{ .Content }}
-
-	</div>
+<div class="mw6 center ph3 pv4">
+  <h1 class="f2 lh-title b mb3">{{ .Params.Title }}</h1>
+  <div class="cms mw6">
+    {{ if .Params.image }}<img src="{{ .Params.image }}" alt="{{ .Params.title }}" />{{ end }}
+    {{ .Content }}
+  </div>
 </div>
 
 {{ end }}
